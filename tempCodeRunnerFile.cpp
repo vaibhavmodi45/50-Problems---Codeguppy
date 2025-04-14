@@ -1,0 +1,1 @@
+cout << "sum of array is = " << sum << endl;
