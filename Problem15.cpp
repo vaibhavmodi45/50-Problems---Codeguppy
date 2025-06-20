@@ -1,3 +1,5 @@
+// This is the problem in 50 in which we have written up a boolean function that return true or flase based on the prime num status.
+
 #include <iostream>
 #include <cmath>
 using namespace std;
